@@ -1,7 +1,7 @@
 ### Oi, eu sou o Gustavo Santos👋
 
 - 🔭 Atualmente trabalhando com a comunidade de games.
-- 🌱 Aprendendo atualmente tecnologias Front End.
+- 🌱 Estudante de Desenvolvimento Web na Trybe
 - ⚡ Fun fact: Sou um repositorio de cultura inutil e aleatoriedades.
 
  <div>
