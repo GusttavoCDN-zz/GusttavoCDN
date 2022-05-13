@@ -1,7 +1,8 @@
 ### Oi, eu sou o Gustavo Santos👋
 
-- 🔭 Atualmente trabalhando com a comunidade de games.
-- 🌱 Estudante de Desenvolvimento Web na Trybe
+- 🔭 Atualmente estou estudando para me tornar um desenvolvedor e sou completamente apaixonado por tecnologia.
+- 💻 Estudante de Desenvolimento de Software na [42SP](https://www.42sp.org.br/);
+- 🖥 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Sou um repositorio de cultura inutil e aleatoriedades.
 
  <div>
@@ -16,7 +17,8 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt"Gustavo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- 
+  <img align="center" alt="Gustavo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+   <img align="center" alt="Gustavo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
   ##
