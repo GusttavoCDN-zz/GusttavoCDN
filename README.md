@@ -80,7 +80,7 @@
     <td valign="top" width="50%">
       <h2 align="center">Calculadora JavaScript</h2>
       <a><img width="100%"  height="200px"src="./images/calculator.png" alt="Calculator Preview"/></a>
-      <p><em><strong>:wrench: Ferramentas:</strong>HTML, CSS, JavaScript</em></p>
+      <p><em><strong>:wrench: Ferramentas:</strong> HTML, CSS, JavaScript</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/calculadora/">Preview</a>,
         <a href="https://github.com/GusttavoCDN/calculadora">Repositorio</a>
@@ -88,5 +88,47 @@
     </td>
   </tr>
 </table>
+
+<h1 align="center">42SP Projetos</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Born2beroot</h2>
+      <a><img width="100%"  height="200px"src="./images/born2beroote.png" alt="Born2beroot Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> VirtualBox, C, ShellScript, Debian</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/born2beroot">Repositorio</a>
+      </p>   
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center">FT_PRINTF </h2>
+      <a><img width="100%" height="200px" src="./images/ft_printfe.png" alt="Print_f Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong> C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/ft_printf">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+   <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Get Next Line</h2>
+      <a><img width="100%"  height="200px"src="./images/get_next_linem.png" alt="GNL Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong>C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/get_next_line">Repositorio</a>
+      </p>   
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center">LIBFT</h2>
+      <a><img width="100%" height="200px" src="./images/libftm.png" alt="LIBFT Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong>C, Makefile</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/libft">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
+</table>
+
 
 
