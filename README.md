@@ -39,20 +39,20 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Star Wars Database</h2>
-      <a><img width="100%" src="" alt="Star Wars Preview"/></a>
-      <p><em><strong>:wrench: Ferramentas:</strong></em></p>
+      <a><img width="100%" src="./images/starWarsDatatable.png" alt="Star Wars Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> React Hooks, Context API, HTML, CSS, JavaScript</em></p>
       <p>
-        <a href="">Preview</a>,
-        <a href="">Code</a>
+        <a href="https://gusttavocdn.github.io/star-wars-data-table/">Preview</a>,
+        <a href="https://github.com/GusttavoCDN/star-wars-data-table">Repositorio</a>
       </p>   
     </td>
      <td valign="top" width="50%">
-      <h2 align="center">Star Wars Database</h2>
-      <a><img width="100%" src="" alt="Star Wars Preview"/></a>
-      <p><em><strong>:wrench: Ferramentas:</strong></em></p>
+      <h2 align="center">Frontend Online Store</h2>
+      <a><img width="100%" height="300px" src="./images/store.jpg" alt="Star Wars Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong> React, Redux, Sass, HTML, CSS, JavaScript, React Router v5</em></p>
       <p>
-        <a href="">Preview</a>,
-        <a href="">Code</a>
+        <a href="https://gusttavocdn.github.io/front_end_online_store/">Preview</a>,
+        <a href="https://github.com/GusttavoCDN/front_end_online_store">Repositorio</a>
       </p>   
     </td>
   </tr>
