@@ -39,7 +39,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Star Wars Database</h2>
-      <a><img width="100%"  height="200px"src="./images/starWarsDatatable.png" alt="Star Wars Preview"/></a>
+      <a><img width="100%"  height="250px"src="./images/starWarsDatatable.png" alt="Star Wars Preview"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> React Hooks, Context API, HTML, CSS, JavaScript</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/star-wars-data-table/">Preview</a>,
@@ -48,7 +48,7 @@
     </td>
      <td valign="top" width="50%">
       <h2 align="center">Frontend Online Store</h2>
-      <a><img width="100%" height="200px" src="./images/store.jpg" alt="Frontend Store Preview"/></a>
+      <a><img width="100%" height="250px" src="./images/store.jpg" alt="Frontend Store Preview"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong> React, Redux, Sass, HTML, CSS, JavaScript, React Router v5</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/front_end_online_store/">Preview</a>,
@@ -59,7 +59,7 @@
    <tr>
     <td valign="top" width="50%">
       <h2 align="center">Jokenpo</h2>
-      <a><img width="100%"  height="200px"src="./images/jokenpo.png" alt="Jokenpo Preview"/></a>
+      <a><img width="100%"  height="250px"src="./images/jokenpo.png" alt="Jokenpo Preview"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong>HTML, CSS, JavaScript</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/Jo-ken-po/">Preview</a>,
@@ -68,7 +68,7 @@
     </td>
      <td valign="top" width="50%">
       <h2 align="center">Todo List</h2>
-      <a><img width="100%" height="200px" src="./images/todo_list.png" alt="Todo List Preview"/></a>
+      <a><img width="100%" height="250px" src="./images/todo_list.png" alt="Todo List Preview"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong>HTML, CSS, JavaScript</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/todo-list/">Preview</a>,
@@ -79,7 +79,7 @@
    <tr>
     <td valign="top" width="50%">
       <h2 align="center">Calculadora JavaScript</h2>
-      <a><img width="100%"  height="200px"src="./images/calculator.png" alt="Calculator Preview"/></a>
+      <a><img width="100%"  height="250px"src="./images/calculator.png" alt="Calculator Preview"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> HTML, CSS, JavaScript</em></p>
       <p>
         <a href="https://gusttavocdn.github.io/calculadora/">Preview</a>,
@@ -91,11 +91,11 @@
 
 <h1 align="center">42SP Projetos</h1>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Born2beroot</h2>
-      <a><img width="100%"  height="200px"src="./images/born2beroote.png" alt="Born2beroot Badge"/></a>
+      <a><img width="100%"  height="250px"src="./images/born2beroote.png" alt="Born2beroot Badge"/></a>
       <p><em><strong>:wrench: Ferramentas:</strong> VirtualBox, C, ShellScript, Debian</em></p>
       <p>
         <a href="https://github.com/GusttavoCDN/born2beroot">Repositorio</a>
@@ -103,7 +103,7 @@
     </td>
      <td valign="top" width="50%">
       <h2 align="center">FT_PRINTF </h2>
-      <a><img width="100%" height="200px" src="./images/ft_printfe.png" alt="Print_f Badge"/></a>
+      <a><img width="100%" height="250px" src="./images/ft_printfe.png" alt="Print_f Badge"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong> C, Makefile</em></p>
       <p>
         <a href="https://github.com/GusttavoCDN/ft_printf">Repositorio</a>
@@ -113,15 +113,15 @@
    <tr>
     <td valign="top" width="50%">
       <h2 align="center">Get Next Line</h2>
-      <a><img width="100%"  height="200px"src="./images/get_next_linem.png" alt="GNL Badge"/></a>
-      <p><em><strong>:wrench: Ferramentas:</strong>C, Makefile</em></p>
+      <a><img width="100%"  height="250px"src="./images/get_next_linem.png" alt="GNL Badge"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> C, Makefile</em></p>
       <p>
         <a href="https://github.com/GusttavoCDN/get_next_line">Repositorio</a>
       </p>   
     </td>
      <td valign="top" width="50%">
       <h2 align="center">LIBFT</h2>
-      <a><img width="100%" height="200px" src="./images/libftm.png" alt="LIBFT Badge"/></a>
+      <a><img width="100%" height="250px" src="./images/libftm.png" alt="LIBFT Badge"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong>C, Makefile</em></p>
       <p>
         <a href="https://github.com/GusttavoCDN/libft">Repositorio</a>
