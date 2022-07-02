@@ -67,7 +67,7 @@
       </p>   
     </td>
      <td valign="top" width="50%">
-      <h2 align="center">Todo List tore</h2>s
+      <h2 align="center">Todo List</h2>
       <a><img width="100%" height="200px" src="./images/todo_list.png" alt="Todo List Preview"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong>HTML, CSS, JavaScript</em></p>
       <p>
