@@ -1,6 +1,6 @@
 ### Oi, eu sou o Gustavo Santos👋
 
-- 🔭 Atualmente estou estudando para me tornar um desenvolvedor e sou completamente apaixonado por tecnologia.
+- 🔭 Estagiario em Desenvolvimento FullStack at [ClassSolutions](https://class-solutions.com.br/)
 - 💻 Estudante de Desenvolimento de Software na [42SP](https://www.42sp.org.br/);
 - 🖥 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Sou um repositorio de cultura inutil e aleatoriedades.
