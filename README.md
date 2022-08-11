@@ -1,6 +1,5 @@
 ### Oi, eu sou o Gustavo Santos👋
 
-- 🔭 Estagiario em Desenvolvimento Frontend at [ClassSolutions](https://class-solutions.com.br/)
 - 💻 Estudante de Desenvolvimento de Software na [42SP](https://www.42sp.org.br/);
 - 🖥 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Sou um repositorio de cultura inutil e aleatoriedades.
