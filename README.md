@@ -50,6 +50,15 @@
 
 <table>
   <tr>
+     <td valign="top" width="50%">
+      <h2 align="center">Portfolio</h2>
+      <a><img width="100%"  height="250px"src="./images/portfolio.png" alt="Portfolio Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> React Hooks, HTML, SASS, JavaScript</em></p>
+      <p>
+        <a href="https://gusttavocdn.github.io/portfolio/">Preview</a>,
+        <a href="https://github.com/GusttavoCDN/portfolio">Repositorio</a>
+      </p>   
+    </td>
     <td valign="top" width="50%">
       <h2 align="center">Star Wars Database</h2>
       <a><img width="100%"  height="250px"src="./images/starWarsDatatable.png" alt="Star Wars Preview"/></a>
@@ -59,7 +68,9 @@
         <a href="https://github.com/GusttavoCDN/star-wars-data-table">Repositorio</a>
       </p>   
     </td>
-     <td valign="top" width="50%">
+  </tr>
+   <tr>
+    <td valign="top" width="50%">
       <h2 align="center">Frontend Online Store</h2>
       <a><img width="100%" height="250px" src="./images/store.jpg" alt="Frontend Store Preview"/></a>
       <p><em><strong>:wrench: Ferramentas: </strong> React, Redux, Sass, HTML, CSS, JavaScript, React Router v5</em></p>
@@ -68,8 +79,6 @@
         <a href="https://github.com/GusttavoCDN/front_end_online_store">Repositorio</a>
       </p>   
     </td>
-  </tr>
-   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Jokenpo</h2>
       <a><img width="100%"  height="250px"src="./images/jokenpo.png" alt="Jokenpo Preview"/></a>
@@ -79,15 +88,7 @@
         <a href="https://github.com/GusttavoCDN/Jo-ken-po">Repositorio</a>
       </p>   
     </td>
-     <td valign="top" width="50%">
-      <h2 align="center">Todo List</h2>
-      <a><img width="100%" height="250px" src="./images/todo_list.png" alt="Todo List Preview"/></a>
-      <p><em><strong>:wrench: Ferramentas: </strong>HTML, CSS, JavaScript</em></p>
-      <p>
-        <a href="https://gusttavocdn.github.io/todo-list/">Preview</a>,
-        <a href="https://github.com/GusttavoCDN/todo-list">Repositorio</a>
-      </p>   
-    </td>
+     
   </tr>
    <tr>
     <td valign="top" width="50%">
@@ -97,6 +98,15 @@
       <p>
         <a href="https://gusttavocdn.github.io/calculadora/">Preview</a>,
         <a href="https://github.com/GusttavoCDN/calculadora">Repositorio</a>
+      </p>   
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center">Todo List</h2>
+      <a><img width="100%" height="250px" src="./images/todo_list.png" alt="Todo List Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas: </strong>HTML, CSS, JavaScript</em></p>
+      <p>
+        <a href="https://gusttavocdn.github.io/todo-list/">Preview</a>,
+        <a href="https://github.com/GusttavoCDN/todo-list">Repositorio</a>
       </p>   
     </td>
   </tr>
@@ -142,6 +152,3 @@
     </td>
   </tr>
 </table>
-
-
-
