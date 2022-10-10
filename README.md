@@ -49,6 +49,24 @@
 <h1 align="center">Projetos</h1>
 
 <table>
+ <tr>
+     <td valign="top" width="50%">
+      <h2 align="center">Blog API</h2>
+      <a><img width="100%"  height="250px"src="./images/api.png" alt="Blog API Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong>NodeJS, Sequelize, MySQL, Express, Swagger, Docker</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/blog_api">Repositorio</a>
+      </p>   
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center">Trybers and Dragons</h2>
+      <a><img width="100%"  height="250px"src="./images/trybeDragons.jpeg" alt="Trybers and Dragons Preview"/></a>
+      <p><em><strong>:wrench: Ferramentas:</strong> TypeScript, POO,</em></p>
+      <p>
+        <a href="https://github.com/GusttavoCDN/ts_trybers_and_dragons">Repositorio</a>
+      </p>   
+    </td>
+  </tr>
   <tr>
      <td valign="top" width="50%">
       <h2 align="center">Portfolio</h2>
