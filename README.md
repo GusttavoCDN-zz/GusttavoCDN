@@ -42,8 +42,6 @@
   
   <img src="https://www.codewars.com/users/GustavoCDN/badges/large" alt="Code Wars Badge"/>
  
-  ![Snake animation](https://github.com/GusttavoCDN/GusttavoCDN/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <h1 align="center">Projetos</h1>
