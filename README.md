@@ -2,6 +2,7 @@
 
 - 💻 Estudante de Desenvolvimento de Software na [42SP](https://www.42sp.org.br/);
 - 🖥 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 💻 Atualmente atuando somo Summer de Instrução na [Trybe](https://www.betrybe.com/)
 - ⚡ Fun fact: Sou um repositorio de cultura inutil e aleatoriedades.
 
  <div align="center">
